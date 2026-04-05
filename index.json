@@ -1,0 +1,10 @@
+﻿{
+  "defaultPage": "anasayfa",
+  "pages": [
+    { "slug": "anasayfa", "title": "Anasayfa", "path": "wiki/anasayfa.md" },
+    { "slug": "hakkimizda", "title": "Hakkımızda", "path": "wiki/hakkimizda.md" },
+    { "slug": "topluluklar", "title": "Topluluklar", "path": "wiki/topluluklar.md" },
+    { "slug": "etkinlikler", "title": "Etkinlikler", "path": "wiki/etkinlikler.md" },
+    { "slug": "ekip", "title": "Ekip", "path": "wiki/ekip.md" }
+  ]
+}
